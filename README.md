@@ -9,7 +9,7 @@ Imagine a surround sound of harmony, a 360-degree wave of positive energy that y
 
 We're experimenting, we're vibing, and we're building something that's never been done before. It's amazing, and we want you to be part of it. There's no pressure here, just the freedom to explore, to contribute, and to be inspired.
 
-Details are on the way, but for now, just know this: Vibe Beam is where the spiritual meets the practical. It's profound but accessible, mystical but down-to-earth. We're not just creating music; we're creating a new way to experience life itself.
+Details are on the way, but for now, just know this: Vibe Beam is where the spiritual meets the practical. It's profound but accessible, mystical but down-to-earth. We're creating beautiful music; we're creating a new way to experience life itself.
 
 So come on in, and let's ride this wave together. Let's vibe with purpose, passion, and a whole lot of love. This is New Earth Wave God Love, and you're right where you need to be. Feel the excitement, share the vision, and join the movement. We can't wait to see what we'll create together.
 
