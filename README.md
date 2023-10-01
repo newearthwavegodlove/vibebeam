@@ -46,4 +46,5 @@ Our project is a beacon for open-source creativity, inviting contributions from 
 
 If you're reading this, you're already part of the New Earth Wave. Let's co-create a reality fueled by love, creativity, and collective wisdom.
 
-**Join us, as together we bring Heaven on Earth.**
+**Join us, as together we bring Heaven on Planet Earth.**
+#**HOPE** 🌍🌎🌏🌍🌎🌏🌍🌎🌏
