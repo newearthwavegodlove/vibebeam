@@ -84,6 +84,6 @@ h1 {
     100% { color: red; }
 }
 
-h1:hover {
+h1 {
     animation: rainbow 3s linear infinite;
 }
