@@ -87,3 +87,29 @@ h1 {
 h1 {
     animation: rainbow 3s linear infinite;
 }
+
+a h1 {
+    text-decoration: none;
+    position: relative;
+}
+
+.wave-container {
+    overflow: hidden;
+}
+
+.wave {
+    stroke-width: 0;
+    fill: red;
+    animation: rainbowWave 3s linear infinite;
+}
+
+@keyframes rainbowWave {
+  0% {fill: red;}
+  14% {fill: orange;}
+  28% {fill: yellow;}
+  42% {fill: green;}
+  57% {fill: blue;}
+  71% {fill: indigo;}
+  85% {fill: violet;}
+  100% {fill: red;}
+}
